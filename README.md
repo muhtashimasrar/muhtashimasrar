@@ -4,11 +4,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔍 3+ years experience in **manual, functional, regression, and API testing**
+- 🔍 3+ years experience in **manual, functional, regression, performance/load/stress and API testing**
 - 🧠 Proficient in **test planning, test case design, bug reporting, and agile QA processes**
 - 🤝 Currently working with **real-time web, mobile, embedded and IOT applications**
 - 🎯 Focused on delivering **stable, user-focused, high-quality software**
-- 🌍 Open to **remote or hybrid QA roles worldwide**
+- 🌍 Open to **full time, remote or hybrid QA roles worldwide**
 
 ---
 
@@ -17,13 +17,14 @@
 | Area               | Tools & Skills                                                                 |
 |--------------------|--------------------------------------------------------------------------------|
 | Test Management     | Jira, Zephyr, AIO, ClickUp                                                     |
-| API Testing         | Postman, Swagger, OWASP ZAP                                                    |
-| Automation Basics   | Selenium, Cypress, Appium (basic scripting using Python)                      |
+| API Testing         | Postman, Swagger                                                              |
+| Automation Basics   | Cypress (basic scripting using Python)                                        |
 | Performance Testing | JMeter                                                                         |
-| Bug Tracking        | Jira                                                                           |
+| Penetration Testing | OWASP ZAP                                                                      |
+| Bug Tracking        | Jira, ClickUp, Google Sheets                                                   |
 | Platforms Tested    | Web, Android, iOS, Embedded Devices, Web/Mobile Games                         |
-| Languages           | Python, SQL, C                                                                 |
-| Other               | Figma, GitHub, Firebase Crashlytics, Google Play Console                      |
+| Languages           | Python, SQL                                                                   |
+| Other               | Figma, GitHub, Firebase Crashlytics                     |
 
 ---
 
