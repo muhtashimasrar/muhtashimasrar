@@ -30,7 +30,7 @@
 
 ### 📂 My QA Projects
 
-#### ✅ [Login System Test Plan](https://github.com/muhtashimasrar/login-test-plan)
+#### ✅ [Login System Test Plan](https://github.com/muhtashimasrar/Test Case Document Template.xlsx)
 Manual test case coverage for authentication module including negative and boundary testing.
 
 #### ✅ [E-commerce Checkout QA](https://github.com/muhtashimasrar/ecommerce-checkout-tests)
